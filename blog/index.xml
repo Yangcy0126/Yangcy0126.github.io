@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Cunyi YANG 杨存奕</title>
+    <link>https://Yangcy0126.github.io/blog/</link>
+      <atom:link href="https://Yangcy0126.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2024 00:49:26 +0800</lastBuildDate>
+    <image>
+      <url>https://Yangcy0126.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://Yangcy0126.github.io/blog/</link>
+    </image>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://Yangcy0126.github.io/blog/my-first-post/</link>
+      <pubDate>Tue, 13 Aug 2024 00:49:26 +0800</pubDate>
+      <guid>https://Yangcy0126.github.io/blog/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
