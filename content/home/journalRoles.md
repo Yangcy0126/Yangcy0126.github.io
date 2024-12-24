@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "**Managing Editor** for _Journal of Economic Analysis_ and _Economic Analysis Letters_"
+  description = "**Managing Editor** for [_Journal of Economic Analysis_](https://www.anserpress.org/journal/jea) and [_Economic Analysis Letters_](https://www.anserpress.org/journal/eal)"
 
  [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
