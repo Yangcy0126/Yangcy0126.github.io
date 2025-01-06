@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   publication_name = "Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints"
   publication_url = "https://doi.org/10.1111/fire.12404"
   writer_names = "**Yang, C.**, Chen, L., Li, Q., Wu, J."
-  organization = "_Financial Review_. 2024, 60(1), 71-93"
+  organization = "_Financial Review_. 2025, 60(1), 71-93"
 
 [[item]]
   publication_name = "Government in the digital age: Exploring the impact of digital transformation on governmental efficiency"
