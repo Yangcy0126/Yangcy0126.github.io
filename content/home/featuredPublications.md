@@ -79,8 +79,8 @@ date_format = "Jan 2006"
 
 [[item]]
   publication_name = "Financial technology and climate risks in financial market"
-  publication_url = ""
-  writer_names = "Wu, H., <strong>Yang, C*</strong>., Zhang, G."
+  publication_url = "https://doi.org/10.1016/j.irfa.2025.103920"
+  writer_names = "Yao, J., <strong>Yang, C*</strong>."
   organization = "_International Review of Financial Analysis_. 2024, Accept"
   
 [[item]]
