@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   publication_name = "Financial technology and climate risks in financial market"
   publication_url = "https://doi.org/10.1016/j.irfa.2025.103920"
   writer_names = "Yao, J., <strong>Yang, C*</strong>."
-  organization = "_International Review of Financial Analysis_. 2025, 103920"
+  organization = "_International Review of Financial Analysis_. 2025, 99, 103920"
   
 [[item]]
   publication_name = "Far-sighted through mitigating risk: Directors and officers liability insurance and corporate ESG performance"
