@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "**Guest Editor** for Special Issue [New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX) in _International Journal of Financial Studies_", Special Issue [Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3) in _Journal of Risk and Financial Management_", and Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D) in _Sustainability Journal_"
+  description = "**Guest Editor** for Special Issue [New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX) in _International Journal of Financial Studies_, Special Issue [Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3) in _Journal of Risk and Financial Management_, and Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D) in _Sustainability Journal_"
   
 [[item]]
   publication_name = "Introduction to Digital Finance"
