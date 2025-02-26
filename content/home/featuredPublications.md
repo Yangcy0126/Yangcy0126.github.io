@@ -72,10 +72,10 @@ date_format = "Jan 2006"
   organization = "_Business Strategy and the Environment_. 2024, 33(5), 4108-4129"
 
 [[item]]
-  publication_name = "The spillover effect of international monetary policy on China’s financial market"
-  publication_url = "https://doi.org/10.3934/QFE.2023026"
-  writer_names = "**Yang, C.**, Chen, L., Mo, B."
-  organization = "_Quantitative Finance and Economics_. 2023, 7(4), 508-537"
+  publication_name = "Climate transition risk and industry returns: The impact of green innovation and carbon market uncertainty"
+  publication_url = "https://doi.org/10.1016/j.techfore.2025.124056"
+  writer_names = "Zhou, Q., Ni, J., <strong>Yang, C*</strong>."
+  organization = "_Technological Forecasting and Social Change_. 2025, 214, 124056"
 
 [[item]]
   publication_name = "Financial technology and climate risks in financial market"
