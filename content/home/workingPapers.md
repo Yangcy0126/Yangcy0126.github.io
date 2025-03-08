@@ -31,8 +31,6 @@ How does digital transformation work? A perspective on information management an
 
 The dark side of mitigating risk: Directors’ and officers’ liability insurance and business ethics.
 
-Climate risk and industry returns: Industry green innovation or carbon market uncertainty.
-
 Interaction between fintech development and energy transition risks: Towards sustainable governance.
 
 Collateral shocks and corporate risk-taking in China.
@@ -42,5 +40,3 @@ Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
 The dark side of financial digitalization: Corporate digital finance and speculative financial investments.
 
 Exploring the production-oriented digital transformation in industrial enterprises.
-
-Industrial financialization and systemic risk: Analysis based on the risk transmission mechanism among economic sectors.
