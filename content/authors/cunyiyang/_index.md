@@ -78,4 +78,4 @@ email: ""
 
 I am an active scholar in Finance at Lingnan College of Sun Yat-sen University, focusing on the **Theory and Application of Digital Financial Risk Management**.
 
-I have published several papers in academic journals, including *Financial Review*, *International Review of Financial Analysis*, *Technological Forecasting & Social Change*, *Business Strategy and the Environment* in English, as well as 经济研究 and 系统工程理论与实践 in Chinese.
+I have published several papers in academic journals, including *Financial Review*, *Technological Forecasting & Social Change*, *Business Strategy and the Environment* in English, as well as 经济研究 and 系统工程理论与实践 in Chinese.
