@@ -58,6 +58,12 @@ date_format = "Jan 2006"
   publication_url = "https://doi.org/10.1111/fire.12404"
   writer_names = "**Yang, C.**, Chen, L., Li, Q., Wu, J."
   organization = "_Financial Review_. 2025, 60(1), 71-93"
+
+[[item]]
+  publication_name = "Comparing Green and Digital Finance: Financial Strategies in Energy Transition"
+  publication_url = ""
+  writer_names = "**Yang, C.**, Yang, R., Ma, W."
+  organization = "_Financial Innovation_. Accept"
   
 [[item]]
   publication_name = "Climate transition risk and industry returns: The impact of green innovation and carbon market uncertainty"
