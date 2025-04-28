@@ -29,6 +29,11 @@
   weight = 45
 
 [[main]]
+  name = "Editorship"
+  url = "#journalRoles"
+  weight = 47
+  
+[[main]]
   name = "Conferences"
   url = "#conferenceReports"
   weight = 50
