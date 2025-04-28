@@ -20,13 +20,18 @@
 
 [[main]]
   name = "Projects"
-  url = "#journalRoles"
+  url = "#researchProjects"
   weight = 40
 
 [[main]]
   name = "Conferences"
   url = "#conferenceReports"
   weight = 50
+
+[[main]]
+  name = "中文成果"
+  url = "#contributionsinChinese"
+  weight = 60
 
 #[[main]]
 #  name = "Blog"
