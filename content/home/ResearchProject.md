@@ -25,6 +25,13 @@ date_format = "Jan 2006"
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
   description = """**Participant**：
+
+[[item]]
+  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
+  publication_url = ""
+  writer_names = "Chapter 5"
+  organization = "Peking University Press, 2025"
+  description = """**Participant**：
   
 National Social Science Fund Key Project “Research on financial digitalization and financial risk governance” (in progress)
 
