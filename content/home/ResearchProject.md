@@ -45,34 +45,16 @@ date_format = "Jan 2006"
   organization = "National Natural Science Foundation Project"
 
 [[item]]
-  publication_name = "Study on the financial attributes of corporate data assets"
-  publication_url = ""
-  writer_names = "in progress"
-  organization = "Southern Power Grid Energy Development Research Institute Horizontal Project"
-
-[[item]]
   publication_name = "The crowding-out effect and motivation of corporate financialization on R&D innovation"
   publication_url = ""
   writer_names = "completed"
   organization = "National Social Science Fund General Project"
 
 [[item]]
-  publication_name = "Research on financial support for digital transformation of manufacturing industry in Guangdong"
-  publication_url = ""
-  writer_names = "completed"
-  organization = "Guangdong Financial Society Annual Policy Consultation Topic"
-
-[[item]]
   publication_name = "Statistical monitoring study on systemic risks caused by corporate financialization"
   publication_url = ""
   writer_names = "completed"
   organization = "National Social Science Fund Youth Project"
-
-[[item]]
-  publication_name = "Measurement and prevention research on regional systemic financial risks in Guangdong province"
-  publication_url = ""
-  writer_names = "completed"
-  organization = "Guangdong Province Philosophy and Social Sciences Special"
   
 
 +++
