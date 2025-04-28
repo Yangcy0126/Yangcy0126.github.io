@@ -24,6 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "Awards"
+  url = "#academicAwards"
+  weight = 45
+
+[[main]]
   name = "Conferences"
   url = "#conferenceReports"
   weight = 50
