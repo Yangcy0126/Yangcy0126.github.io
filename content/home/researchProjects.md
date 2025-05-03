@@ -24,37 +24,37 @@ date_format = "Jan 2006"
   publication_name = "Research on financial digitalization and financial risk governance"
   publication_url = ""
   writer_names = "in progress"
-  organization = "National Social Science Fund Key Project"
+  organization = "National Social Science Fund Key Project (No.24AZD019)"
 
 [[item]]
   publication_name = "The statistical monitoring study on the coordination and balance of digital finance empowerment and risk"
   publication_url = ""
   writer_names = "in progress"
-  organization = "National Social Science Fund General Project"
+  organization = "National Social Science Fund General Project (No.24BTJ039)"
 
 [[item]]
   publication_name = "Theory and application research on industrial digital finance empowering real economy"
   publication_url = ""
   writer_names = "in progress"
-  organization = "Guangdong Provincial Natural Science Foundation Excellent Youth Team"
+  organization = "Guangdong Provincial Natural Science Foundation Excellent Youth Team (No.2023B1515040001)"
 
 [[item]]
   publication_name = "Research on insurance asset allocation based on green development"
   publication_url = ""
   writer_names = "in progress"
-  organization = "National Natural Science Foundation Project"
+  organization = "National Natural Science Foundation Project (No.72371256)"
 
 [[item]]
   publication_name = "The crowding-out effect and motivation of corporate financialization on R&D innovation"
   publication_url = ""
   writer_names = "completed"
-  organization = "National Social Science Fund General Project"
+  organization = "National Social Science Fund General Project (No.21CTJ013)"
 
 [[item]]
   publication_name = "Statistical monitoring study on systemic risks caused by corporate financialization"
   publication_url = ""
   writer_names = "completed"
-  organization = "National Social Science Fund Youth Project"
+  organization = "National Social Science Fund Youth Project (No.21CTJ014)"
   
 
 +++
