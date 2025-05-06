@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+Why does digital transformation fail? A perspective on organizations and compensation
+
 When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation
 
 Isolated counties, government supervision, and illegal land tansfers
@@ -31,14 +33,8 @@ Crowding Out or Crowding In? The impact of talent subsidy policy on the income o
 
 How does digital transformation work? A perspective on information management and resource allocation.
 
-The dark side of mitigating risk: Directors’ and officers’ liability insurance and business ethics.
-
-Interaction between fintech development and energy transition risks: Towards sustainable governance.
-
 Collateral shocks and corporate risk-taking in China.
 
 Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
 
 The dark side of financial digitalization: Corporate digital finance and speculative financial investments.
-
-Exploring the production-oriented digital transformation in industrial enterprises.
