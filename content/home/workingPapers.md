@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-Why does digital transformation fail? A perspective on organizations and compensation
+Why does digital transformation fail? A perspective on compensation incentives
 
 When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation
 
