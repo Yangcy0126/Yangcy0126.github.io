@@ -20,30 +20,29 @@ date_format = "Jan 2006"
 
 +++
 
-<h2>Ongoing Projects</h2>
+<h2>Digital Transformation</h2>
 <ul>
-<li>Why does digital transformation fail? A perspective on compensation incentives
+<li>Why does digital transformation fail? A perspective on compensation incentives</li>
 
-<li>When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation
+<li>How does digital transformation work? A perspective on information management and resource allocation</li>
+
+<li>The dark side of financial digitalization: Corporate digital finance and speculative financial investments</li>
+
+<li>Spatial interaction and spillover effects between digital finance and service industry development.</li>
 </ul>
 
-<h2>Completed Working Papers</h2>
+<h2>Other Topics</h2>
 <ul>
-<li>Isolated counties, government supervision, and illegal land tansfers
+<li>When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation</li>
 
-<li>Spatial interaction and spillover effects between digital finance and service industry development.
+<li>Isolated counties, government supervision, and illegal land transfers</li>
 
-<li>From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
+<li>From Policy to Progress: The role of Sci-tech finance projects in key technological innovation</li>
 
-<li>Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers.
+<li>Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers</li>
 
-<li>How does digital transformation work? A perspective on information management and resource allocation.
+<li>Collateral shocks and corporate risk-taking in China</li>
 
-<li>Collateral shocks and corporate risk-taking in China.
-
-<li>Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
-
-<li>The dark side of financial digitalization: Corporate digital finance and speculative financial investments.
+<li>Refinancing, withdrawing and optimal loan structure: An equilibrium approach</li>
 </ul>
 
-+++
