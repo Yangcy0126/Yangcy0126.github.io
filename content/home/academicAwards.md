@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 +++
 <h2>Academic Awards</h2>
 <ul>
-  <li>“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024</li>
+  <li>消费者福利“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024</li>
   
   <li>“Gold Medal Nomination” in The 14th Qian Xuesen City Gold Medal, 2024</li>
   
