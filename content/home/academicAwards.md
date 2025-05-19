@@ -18,24 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-+++
+<h2>Academic Awards</h2>
+<ul>
+  <li>“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024</li>
+  
+  <li>“Gold Medal Nomination” in The 14th Qian Xuesen City Gold Medal, 2024</li>
+  
+  <li>“Outstanding Paper Award” in The 4th National Major Strategy and Policy Research Forum, 2024</li>
+  
+  <li>“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum, 2024</li>
+</ul>
 
-**Academic Awards：**
+<h2>Scholarships</h2>
+<ul>
+  <li>Sun Yat-sen University President's Scholarship</li>
+  
+  <li>Lingnan College Outstanding Doctoral Student Scholarship</li>
+  
+  <li>National Scholarship for Doctoral Students</li>
+  
+  <li>National Scholarship for Master's Students</li>
+</ul>
 
-“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024
-
-“Gold Medal Nomination” in The 14th Qian Xuesen City Gold Medal, 2024
-
-“Outstanding Paper Award” in The 4th National Major Strategy and Policy Research Forum, 2024
-
-“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum, 2024
-
-**Scholarships：**
-
-Sun Yat-sen University President's Scholarship
-
-Lingnan College Outstanding Doctoral Student Scholarship
-
-National Scholarship for Doctoral Students
-
-National Scholarship for Master's Students
