@@ -11,7 +11,7 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
-<div style="line-height: 1.8;">
+<div style="line-height: 3;">
 <h2>已发表</h2>
 <ul>
   <li>曾燕, 查佳婧, 杨海生, <strong>杨存奕（通讯作者）</strong>, “中国数字普惠金融的发展模式探究：经济与民生的视角”. 《经济研究》, 2024, 59(8), 39–56</li>
