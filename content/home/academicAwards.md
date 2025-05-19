@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
++++
 <h2>Academic Awards</h2>
 <ul>
   <li>“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024</li>
