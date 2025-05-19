@@ -1,9 +1,9 @@
 +++
 # Accomplishments widget.
-widget = "contributionsInChinese"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 160  # Order that this section will appear.
+widget = "academicAwards"
+headless = true
+active = true
+weight = 160
 
 title = "Contributions in Chinese"
 subtitle = ""
@@ -11,7 +11,6 @@ subtitle = ""
 date_format = "Jan 2006"
 
 +++
-
 <h2>已发表</h2>
 <ul>
   <li>曾燕, 查佳婧, 杨海生, <strong>杨存奕（通讯作者）</strong>, “中国数字普惠金融的发展模式探究：经济与民生的视角”. 《经济研究》, 2024, 59(8), 39–56</li>
@@ -24,7 +23,10 @@ date_format = "Jan 2006"
 <h2>工作论文</h2>
 <ul>
   <li>企业数字化转型的金融支持和路径权衡</li>
+  
   <li>从技能偏向到红利共享——数实融合重塑薪酬差距的动态机制探究</li>
+  
   <li>如何发展工业企业的新质生产力？——生产性数字化转型策略与政策</li>
+  
   <li>大学学科专业选择的工资效应——基于招聘平台大数据的经验证据</li>
 </ul>
