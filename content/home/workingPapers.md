@@ -18,23 +18,31 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+content = """
+<h2>Ongoing Projects</h2>
+<ul>
+<li>Why does digital transformation fail? A perspective on compensation incentives
+
+<li>When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation
+</ul>
+
+<h2>Completed Working Papers</h2>
+<ul>
+<li>Isolated counties, government supervision, and illegal land tansfers
+
+<li>Spatial interaction and spillover effects between digital finance and service industry development.
+
+<li>From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
+
+<li>Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers.
+
+<li>How does digital transformation work? A perspective on information management and resource allocation.
+
+<li>Collateral shocks and corporate risk-taking in China.
+
+<li>Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
+
+<li>The dark side of financial digitalization: Corporate digital finance and speculative financial investments.
+</ul>
+"""
 +++
-Why does digital transformation fail? A perspective on compensation incentives
-
-When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation
-
-Isolated counties, government supervision, and illegal land tansfers
-
-Spatial interaction and spillover effects between digital finance and service industry development.
-
-From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
-
-Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers.
-
-How does digital transformation work? A perspective on information management and resource allocation.
-
-Collateral shocks and corporate risk-taking in China.
-
-Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
-
-The dark side of financial digitalization: Corporate digital finance and speculative financial investments.
