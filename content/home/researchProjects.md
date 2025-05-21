@@ -10,16 +10,16 @@ date_format = "Jan 2006"
 +++
 <h2>In Progress</h2>
 <ul style="padding-left: 1.2em;">
-  <li><p style="margin-bottom: 1em;">“Research on financial digitalization and financial risk governance<br>
+  <li><p style="margin-bottom: 1em;">Research on financial digitalization and financial risk governance<br>
   <span style="font-size: 0.95em; color: #555;">National Social Science Fund Key Project (No.24AZD019)</span></p></li>
 
-  <li><p style="margin-bottom: 1em;">“The statistical monitoring study on the coordination and balance of digital finance empowerment and risk<br>
+  <li><p style="margin-bottom: 1em;">The statistical monitoring study on the coordination and balance of digital finance empowerment and risk<br>
   <span style="font-size: 0.95em; color: #555;">National Social Science Fund General Project (No.24BTJ039)</span></p></li>
   
-  <li><p style="margin-bottom: 1em;">“Theory and application research on industrial digital finance empowering real economy<br>
+  <li><p style="margin-bottom: 1em;">Theory and application research on industrial digital finance empowering real economy<br>
   <span style="font-size: 0.95em; color: #555;">Guangdong Provincial Natural Science Foundation Excellent Youth Team (No.2023B1515040001)</span></p></li>
   
-  <li><p style="margin-bottom: 1em;">“Research on insurance asset allocation based on green development<br>
+  <li><p style="margin-bottom: 1em;">Research on insurance asset allocation based on green development<br>
   <span style="font-size: 0.95em; color: #555;">National Natural Science Foundation Project (No.72371256)</span></p></li>
 </ul>
 
