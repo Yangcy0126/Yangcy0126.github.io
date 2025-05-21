@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 +++
 
-Greater Bay Area Digital Finance Forum (1st in Guangzhou 2023; 2st in Guangzhou 2024)
+Greater Bay Area Digital Finance Forum<br>
 <span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2023; 2st in Guangzhou 2024</span></p></li>
 
 China Economic Annual Conference (24th in Beijing 2024)
