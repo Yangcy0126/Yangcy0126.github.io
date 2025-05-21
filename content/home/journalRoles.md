@@ -1,5 +1,5 @@
 +++
-widget = "journalRoles"
+widget = "academicAwards"
 headless = true
 active = true
 weight = 120
