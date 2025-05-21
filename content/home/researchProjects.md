@@ -25,10 +25,10 @@ date_format = "Jan 2006"
 
 <h2>Completed</h2>
 <ul style="padding-left: 1.2em;">
-  <li><p style="margin-bottom: 1em;">The crowding-out effect and motivation of corporate financialization on R&D innovation</p></li>
+  <li><p style="margin-bottom: 1em;">The crowding-out effect and motivation of corporate financialization on R&D innovation<br>
   <span style="font-size: 0.95em; color: #555;">National Social Science Fund General Project (No.21CTJ013)</span></p></li>
  
-  <li><p style="margin-bottom: 1em;">Statistical monitoring study on systemic risks caused by corporate financialization</p></li>
+  <li><p style="margin-bottom: 1em;">Statistical monitoring study on systemic risks caused by corporate financialization<br>
   <span style="font-size: 0.95em; color: #555;">National Social Science Fund Youth Project (No.21CTJ014)</span></p></li>
 
 </ul>
