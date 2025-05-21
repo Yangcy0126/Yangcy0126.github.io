@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Finance
+  - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
-  - course: Master in Finance
+  - course: M.A. in Finance
     institution: Guangzhou University
     year: 
-  - course: Bachelor in Finance
+  - course: B.A. in Finance
     institution: Wuhan University of Technology
     year: 
 
