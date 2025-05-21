@@ -1,47 +1,30 @@
 +++
-# Accomplishments widget.
-widget = "journalRoles"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
-
+widget = "journalRoles"
+headless = true
+active = true
+weight = 120
 title = "Journal Roles"
 subtitle = ""
-
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
- 
-[[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = "**Managing Editor** for [_Journal of Economic Analysis_](https://www.anserpress.org/journal/jea) and [_Economic Analysis Letters_](https://www.anserpress.org/journal/eal)."
-
- [[item]]
-  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
-  publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
-  description = "**Guest Editor** for Special Issue [New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX) in _International Journal of Financial Studies_, Special Issue [Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3) in _Journal of Risk and Financial Management_, and Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D) in _Sustainability Journal_."
-  
-[[item]]
-  publication_name = "Introduction to Digital Finance"
-  publication_url = ""
-  writer_names = "Chapter 3"
-  organization = "Peking University Press, 2024"
-  description = "**Reviewer** for _Applied Economics_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Economics and Finance_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Review of Development Economics_, etc."
-
-
-
-
 +++
 
+<h2>Journal Roles</h2>
+<ul style="padding-left: 1.2em;">
+  <li>
+    <p style="margin-bottom: 1em;">
+      <strong>Managing Editor</strong> for <a href="https://www.anserpress.org/journal/jea" target="_blank">Journal of Economic Analysis</a> and <a href="https://www.anserpress.org/journal/eal" target="_blank">Economic Analysis Letters</a>.
+    </p>
+  </li>
 
+  <li>
+    <p style="margin-bottom: 1em;">
+      <strong>Guest Editor</strong> for Special Issue <a href="https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX" target="_blank">New Financial Risks in the FinTech Era</a> in <em>International Journal of Financial Studies</em>, Special Issue <a href="https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3" target="_blank">Innovative Approaches to Managing Finance Risks in the FinTech Era</a> in <em>Journal of Risk and Financial Management</em>, and Special Issue <a href="https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D" target="_blank">Digital Economy in Sustainable Resource Risk Management</a> in <em>Sustainability Journal</em>.
+    </p>
+  </li>
+
+  <li>
+    <p style="margin-bottom: 1em;">
+      <strong>Reviewer</strong> for <em>Applied Economics</em>, <em>Business Strategy and the Environment</em>, <em>China Finance Review International</em>, <em>Economic Analysis and Policy</em>, <em>Energy Economics</em>, <em>Financial Innovation</em>, <em>International Review of Economics and Finance</em>, <em>International Review of Financial Analysis</em>, <em>Managerial and Decision Economics</em>, <em>Review of Development Economics</em>, and others.
+    </p>
+  </li>
+</ul>
