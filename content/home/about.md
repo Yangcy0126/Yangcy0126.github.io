@@ -12,3 +12,5 @@ title = "Hello, I am Cunyi!"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "cunyiyang"
 +++
+
+[Download CV](img/CV_Cunyi_Yang.pdf){.btn .btn-outline-primary download}
