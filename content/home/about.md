@@ -13,4 +13,3 @@ title = "Hello, I am Cunyi!"
 author = "cunyiyang"
 +++
 
-[Download CV](img/CV_Cunyi_Yang.pdf){.btn .btn-outline-primary download}
