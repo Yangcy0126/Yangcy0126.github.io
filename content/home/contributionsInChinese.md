@@ -29,6 +29,6 @@ date_format = "Jan 2006"
   
   <li><p style="margin-bottom: 1em;">如何发展工业企业的新质生产力？——生产性数字化转型策略与政策</p></li>
   
-  <li><p style="margin-bottom: 1em;">大学学科专业选择的工资效应——基于招聘平台大数据的经验证据</p></li>
+  <li><p style="margin-bottom: 1em;">专业的回报：让招聘大数据告诉大学如何设置专业</p></li>
 </ul>
 
