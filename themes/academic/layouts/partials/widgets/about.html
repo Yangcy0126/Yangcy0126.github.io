@@ -11,7 +11,7 @@
 {{ $person_page_path := (printf "/authors/%s" (urlize $author)) }}
 {{ $person_page := site.GetPage $person_page_path }}
 {{ if not $person_page }}
-  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
+  {{ errorf "Could not find an author page at %s. Please check the value of author in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
 {{end}}
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
@@ -64,13 +64,6 @@
         {{ end }}
       </ul>
 
-      <div>
-
-          {{/*https://s11.flagcounter.com/index.html*/}}
-        {{/*<img src="https://s11.flagcounter.com/count2/z5SK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">*/}}
-
-      </div>
-
     </div>
   </div>
   <div class="col-12 col-lg-8">
@@ -82,33 +75,43 @@
 
     <div class="row">
 
-  {{ with $person.education }}
-  <div class="col-md-7">
-  <h3>{{ i18n "education" | markdownify }}</h3>
-  <ul class="ul-edu fa-ul">
-    {{ range .courses }}
-    <li>
-      <i class="fa-li fas fa-graduation-cap"></i>
-      <div class="description">
-        <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-        <p class="institution">{{ .institution }}</p>
-        {{ if .advisor }}
-          <p class="advisor">
-            <strong>Advisor:</strong>
-            {{ if .advisor_link }}
-              <a href="{{ .advisor_link }}" target="_blank" rel="noopener">{{ .advisor }}</a>
-            {{ else }}
-              {{ .advisor }}
-            {{ end }}
-          </p>
-        {{ end }}
+      {{ with $person.interests }}
+      <div class="col-md-5">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
       </div>
-    </li>
-    {{ end }}
-  </ul>
-</div>
-{{ end }}
+      {{ end }}
 
+      {{ with $person.education }}
+      <div class="col-md-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .courses }}
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+              {{ if .advisor }}
+                <p class="advisor">
+                  <strong>Advisor:</strong>
+                  {{ if .advisor_link }}
+                    <a href="{{ .advisor_link }}" target="_blank" rel="noopener">{{ .advisor }}</a>
+                  {{ else }}
+                    {{ .advisor }}
+                  {{ end }}
+                </p>
+              {{ end }}
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
 
     </div>
   </div>
