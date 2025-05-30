@@ -36,13 +36,13 @@ education:
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
-    advisor: Prof. Dragon Tang
-    advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
+    advisor: Prof. Yan Zeng
+    advisor_link: "https://scholar.google.com/citations?hl=en&user=Yebjil0AAAAJ"
   - course: M.A. in Finance
     institution: Guangzhou University
     year:
-    advisor: Prof. Dragon Tang
-    advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
+    advisor: Prof. Zhenghui Li
+    advisor_link: "https://www.researchgate.net/profile/Zhenghui-Li-2"
   - course: B.A. in Finance
     institution: Wuhan University of Technology
     year: 
