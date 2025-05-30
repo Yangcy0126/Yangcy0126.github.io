@@ -27,23 +27,23 @@ interests:
 - Green Finance
 
 education:
-
+  courses:
   - course: Visiting Ph.D. in Finance
     institution: The University of Hong Kong
     year:
-    advisor: Prof. Dragon Tang
+    advisor: Dragon Tang
     advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
     
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
-    advisor: Prof. Yan Zeng
+    advisor: Yan Zeng
     advisor_link: "https://scholar.google.com/citations?hl=en&user=Yebjil0AAAAJ"
     
   - course: M.A. in Finance
     institution: Guangzhou University
     year:
-    advisor: Prof. Zhenghui Li
+    advisor: Zhenghui Li
     advisor_link: "https://www.researchgate.net/profile/Zhenghui-Li-2"
     
   - course: B.A. in Finance
