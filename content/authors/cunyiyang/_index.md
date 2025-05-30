@@ -31,12 +31,18 @@ education:
   - course: Visiting Ph.D. in Finance
     institution: The University of Hong Kong
     year:
+    advisor: Prof. Dragon Tang
+    advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
+    advisor: Prof. Dragon Tang
+    advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
   - course: M.A. in Finance
     institution: Guangzhou University
-    year: 
+    year:
+    advisor: Prof. Dragon Tang
+    advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
   - course: B.A. in Finance
     institution: Wuhan University of Technology
     year: 
