@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Visiting Ph.D. in Finance
+    institution: The University of Hong Kong
+    year:
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
