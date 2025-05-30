@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: Visiting Ph.D. in Finance
-    institution: The University of Hong Kong, Advisor Prof. Dragon Tang
+    institution: The University of Hong Kong, Advisor Dragon Tang
     year:
   - course: Ph.D. in Finance
-    institution: Sun Yat-sen University
+    institution: Sun Yat-sen University, Advisor Yan Zeng
     year:
   - course: M.A. in Finance
-    institution: Guangzhou University
+    institution: Guangzhou University, Advisor Zhenghui Li
     year: 
   - course: B.A. in Finance
     institution: Wuhan University of Technology
