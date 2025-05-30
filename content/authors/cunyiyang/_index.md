@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Visiting Ph.D. in Finance, Advisor Prof. Dragon Tang
+  - course: Visiting Ph.D. in Finance<br> Advisor Prof. Dragon Tang
     institution: The University of Hong Kong
     year:
   - course: Ph.D. in Finance
