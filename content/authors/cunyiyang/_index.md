@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Visiting Ph.D. in Finance
-    institution: The University of Hong Kong, [Dragon Tang](https://www.hkubs.hku.hk/people/dragon-yongjun-tang/)
+    institution: The University of Hong Kong, <a href="https://www.hkubs.hku.hk/people/dragon-yongjun-tang/">Dragon Tang</a>
     year:
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University, Advisor Yan Zeng
