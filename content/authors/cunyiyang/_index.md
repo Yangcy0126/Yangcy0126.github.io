@@ -31,6 +31,7 @@ education:
   - course: Visiting Ph.D. in Finance
     institution: The University of Hong Kong
     year:
+    advisor: Prof. Dragon Tang
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
