@@ -98,11 +98,11 @@
               <p class="institution">{{ .institution }}</p>
               {{ if .advisor }}
                 <p class="advisor">
-                  <strong>Advisor:</strong>
+                  <strong style="font-weight: normal;">Advisor:</strong>
                   {{ if .advisor_link }}
-                    <a href="{{ .advisor_link }}" target="_blank" rel="noopener">{{ .advisor }}</a>
+                    <a href="{{ .advisor_link }}" target="_blank" rel="noopener" style="font-size: 16px;">{{ .advisor }}</a>
                   {{ else }}
-                    {{ .advisor }}
+                    <span style="font-size: 16px;">{{ .advisor }}</span>
                   {{ end }}
                 </p>
               {{ end }}
