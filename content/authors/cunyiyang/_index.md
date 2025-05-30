@@ -28,25 +28,31 @@ interests:
 
 education:
   courses:
+  
   - course: Visiting Ph.D. in Finance
     institution: The University of Hong Kong
     year:
     advisor: Prof. Dragon Tang
     advisor_link: "https://www.hkubs.hku.hk/people/dragon-yongjun-tang/"
+    
   - course: Ph.D. in Finance
     institution: Sun Yat-sen University
     year:
     advisor: Prof. Yan Zeng
     advisor_link: "https://scholar.google.com/citations?hl=en&user=Yebjil0AAAAJ"
+    
   - course: M.A. in Finance
     institution: Guangzhou University
     year:
     advisor: Prof. Zhenghui Li
     advisor_link: "https://www.researchgate.net/profile/Zhenghui-Li-2"
+    
   - course: B.A. in Finance
     institution: Wuhan University of Technology
     year: 
-
+    advisor:
+    advisor_link:
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
