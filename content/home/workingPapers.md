@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">The dark side of financial digitalization: Corporate digital finance and speculative financial investments</p></li>
 
-  <li><p style="margin-bottom: 1em;">Spatial interaction and spillover effects between digital finance and service industry development.</p></li>
+  <li><p style="margin-bottom: 1em;">Spatial interaction and spillover effects between digital finance and service industry development</p></li>
 </ul>
 
 <h2>Other Topics</h2>
