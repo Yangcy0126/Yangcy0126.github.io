@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 <ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">Still waters run deep: The asymmetric impact of traditional vs. social media criticism on ESG greenwashing</p></li>
   
-  <li><p style="margin-bottom: 1em;">When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation</p></li>
+  <li><p style="margin-bottom: 1em;">When elephants fight, grass suffers: The effects of diplomatic sentiments on enterprise risk and valuation</p></li>
 
   <li><p style="margin-bottom: 1em;">Isolated counties, government supervision, and illegal land transfers</p></li>
 
@@ -43,8 +43,12 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers</p></li>
 
+  <li><p style="margin-bottom: 1em;">Extreme climate risk and impact on debt maturity structure: A perspective of corporate alliances</p></li>
+  
   <li><p style="margin-bottom: 1em;">Collateral shocks and corporate risk-taking in China</p></li>
 
+  <li><p style="margin-bottom: 1em;">Sampler Scheduler for Diffusion Models</p></li>
+  
   <li><p style="margin-bottom: 1em;">Refinancing, withdrawing and optimal loan structure: An equilibrium approach</p></li>
 </ul>
 
