@@ -33,6 +33,8 @@ date_format = "Jan 2006"
 
 <h2>Other Topics</h2>
 <ul style="padding-left: 1.2em;">
+  <li><p style="margin-bottom: 1em;">Still waters run deep: The asymmetric impact of traditional vs. social media criticism on ESG greenwashing</p></li>
+  
   <li><p style="margin-bottom: 1em;">When Elephants Fight, Grass Suffers: The effects of diplomatic sentiments on enterprise risk and valuation</p></li>
 
   <li><p style="margin-bottom: 1em;">Isolated counties, government supervision, and illegal land transfers</p></li>
