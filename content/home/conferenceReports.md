@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+Quarterly Journal of Finance Forum<br>
+<span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2023; 3rd in Guangzhou 2025</span></p></li>
 
 Greater Bay Area Digital Finance Forum<br>
 <span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2023; 2nd in Guangzhou 2024</span></p></li>
@@ -54,9 +56,6 @@ Annual Conference of Chinese Fintech<br>
 <span style="font-size: 0.95em; color: #555;">7th in Guangzhou 2023</span></p></li>
 
 Symposium on Frontier Issues of Industrial Integration by the Chinese Society of Industrial Economics<br>
-<span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2023</span></p></li>
-
-Quarterly Journal of Finance Forum<br>
 <span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2023</span></p></li>
 
 Monetary Policy Issues and Challenges for Asian Economies International Conference<br>
