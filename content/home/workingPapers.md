@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">Isolated counties, government supervision, and illegal land transfers</p></li>
 
-  <li><p style="margin-bottom: 1em;">From Policy to Progress: The role of Sci-tech finance projects in key technological innovation</p></li>
+  <li><p style="margin-bottom: 1em;">From policy to progress: The role of Sci-tech finance projects in key technological innovation</p></li>
 
   <li><p style="margin-bottom: 1em;">Crowding out or crowding in? The impact of talent subsidy policy on the income of low-skilled workers</p></li>
 
