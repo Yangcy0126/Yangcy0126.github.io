@@ -41,9 +41,9 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">From Policy to Progress: The role of Sci-tech finance projects in key technological innovation</p></li>
 
-  <li><p style="margin-bottom: 1em;">Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers</p></li>
+  <li><p style="margin-bottom: 1em;">Crowding out or crowding in? The impact of talent subsidy policy on the income of low-skilled workers</p></li>
 
-  <li><p style="margin-bottom: 1em;">Extreme climate risk and impact on debt maturity structure: A perspective of corporate alliances</p></li>
+  <li><p style="margin-bottom: 1em;">United we stand: Corporate alliances and debt maturity structuring under extreme climate risk</p></li>
   
   <li><p style="margin-bottom: 1em;">Collateral shocks and corporate risk-taking in China</p></li>
 
