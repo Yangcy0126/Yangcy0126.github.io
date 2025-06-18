@@ -21,9 +21,8 @@ organizations:
 bio: <>
 
 interests:
-- Digital Economics
-- Digital Finance
-- Financial Risk
+- Digital Transformation
+- Financial Management
 - Green Finance
 
 education:
