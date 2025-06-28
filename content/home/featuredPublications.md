@@ -66,12 +66,6 @@ date_format = "Jan 2006"
   organization = "_Technological Forecasting and Social Change_. 2025, 214, 124056"
 
 [[item]]
-  publication_name = "Financial technology and climate risks in financial market"
-  publication_url = "https://doi.org/10.1016/j.irfa.2025.103920"
-  writer_names = "Yao, J., <strong>Yang, C*</strong>."
-  organization = "_International Review of Financial Analysis_. 2025, 99, 103920"
-
-[[item]]
   publication_name = "Government in the digital age: Exploring the impact of digital transformation on governmental efficiency"
   publication_url = "https://doi.org/10.1016/j.techfore.2024.123722"
   writer_names = "**Yang, C.**, Gu, M., Albitar, K."
@@ -82,12 +76,6 @@ date_format = "Jan 2006"
   publication_url = "https://doi.org/10.1002/bse.3692"
   writer_names = "**Yang, C.**, Zhu, C., Albitar, K."
   organization = "_Business Strategy and the Environment_. 2024, 33(5), 4108-4129"
-  
-[[item]]
-  publication_name = "Far-sighted through mitigating risk: Directors and officers liability insurance and corporate ESG performance"
-  publication_url = "https://doi.org/10.1016/j.irfa.2024.103719"
-  writer_names = "Yang, R., Wu, J., <strong>Yang, C*</strong>., Albitar, K."
-  organization = "_International Review of Financial Analysis_. 2024, 96, 103719"
 
 [[item]]
   publication_name = "The impact of fintech on corporate carbon emissions: Towards green and sustainable development"
