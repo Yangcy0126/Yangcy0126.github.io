@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 <ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">Why does digital transformation fail? A perspective on compensation incentives</p></li>
 
-  <li><p style="margin-bottom: 1em;">The dark side of digitalization: Financial digitalization, firms' risk propensity, and its consequences</p></li>
+  <li><p style="margin-bottom: 1em;">The dark side of financial digitalization: Firms' risk propensity and its consequences</p></li>
 
   <li><p style="margin-bottom: 1em;">Live streaming E-Commerce, irrational consumption, and platform installment payments</p></li>
 
