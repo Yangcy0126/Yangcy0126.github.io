@@ -26,16 +26,18 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">The dark side of digitalization: Financial digitalization, firms' risk propensity, and its consequences</p></li>
 
+  <li><p style="margin-bottom: 1em;">Live streaming E-Commerce, irrational consumption, and platform installment payments</p></li>
+
   <li><p style="margin-bottom: 1em;">How does digital transformation work? A perspective on information management and resource allocation</p></li>
 
-  <li><p style="margin-bottom: 1em;">Spatial interaction and spillover effects between digital finance and service industry development</p></li>
+  <li><p style="margin-bottom: 1em;">Spatial interaction and spillover effects between digital finance and financial risks</p></li>
 </ul>
 
 <h2>Other Topics</h2>
 <ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">Still waters run deep: The asymmetric impact of traditional vs. social media criticism on ESG greenwashing in China</p></li>
 
-  <li><p style="margin-bottom: 1em;">M&A and innovation from the perspective of corporate life cycle</p></li>
+  <li><p style="margin-bottom: 1em;">Corporate innovations and mergers and acquisitions from the perspective of corporate life cycle</p></li>
   
   <li><p style="margin-bottom: 1em;">When elephants fight, grass suffers: The effects of diplomatic sentiments on enterprise risk and valuation</p></li>
 
