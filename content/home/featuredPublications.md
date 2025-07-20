@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[item]]
   publication_name = "Enterprise characteristics and incentive effect of environmental regulation"
   publication_url = "https://doi.org/10.1111/irfi.70032"
-  writer_names = "Guo, C., Ma, W., <strong>Yang, C*</strong>, Yang, R."
+  writer_names = "Guo, C., Ma, W., <strong>Yang, C*</strong>., Yang, R."
   organization = "_International Review of Finance_. 2025, 25(6)"
   
 [[item]]
