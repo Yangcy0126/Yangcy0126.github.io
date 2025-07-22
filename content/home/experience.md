@@ -25,15 +25,7 @@ date_format = "Jan 2006"
   location = "Guangzhou"
   date_start = "2022-09-01"
   date_end = ""
-  description0 = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-
+  description0 = """ """
 
 [[experience]]
   title = "Visiting Scholar"
@@ -42,6 +34,15 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2023-10-01"
   date_end = "2024-04-01"
-  description0 = """Taught electronic engineering and researched semiconductor physics."""
+  description0 = """ """
+
+[[experience]]
+  title = "Visiting Scholar"
+  company = "Faculty of Business and Economics, The University of Hong Kong"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2025-06-01"
+  date_end = "2026-06-01"
+  description0 = """ """
 
 +++
