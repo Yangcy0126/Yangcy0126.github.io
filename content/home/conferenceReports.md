@@ -22,6 +22,7 @@ date_format = "Jan 2006"
 Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics<br>
 <span style="font-size: 0.95em; color: #555;">7th in Kunming 2025; 6th in Nanjing 2024; 5th in Wuhan 2023</span></p></li>
 
+Quarterly Journal of Finance Forum<br>
 <span style="font-size: 0.95em; color: #555;">3rd in Guangzhou 2025; 1st in Guangzhou 2023</span></p></li>
 
 Greater Bay Area Digital Finance Forum<br>
