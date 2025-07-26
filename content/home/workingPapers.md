@@ -38,7 +38,7 @@ date_format = "Jan 2006"
  
   <li><p style="margin-bottom: 1em;">Corporate innovations and mergers and acquisitions from the perspective of corporate life cycle</p></li>
   
-  <li><p style="margin-bottom: 1em;">Still waters run deep: The asymmetric impact of traditional vs. social media criticism on ESG greenwashing in China</p></li>
+  <li><p style="margin-bottom: 1em;">Megaphone effect: The asymmetric impact of traditional vs. social media criticism on greenwashing</p></li>
   
   <li><p style="margin-bottom: 1em;">When elephants fight, grass suffers: The effects of diplomatic sentiments on enterprise risk and valuation</p></li>
 
