@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 
 <h2>Digital Transformation</h2>
 <ul style="padding-left: 1.2em;">
-  <li><p style="margin-bottom: 1em;">Why does digital transformation fail? A perspective on compensation incentives</p></li>
+  <li><p style="margin-bottom: 1em;">Why does digital transformation fail? A perspective on workforce and compensation incentives</p></li>
 
   <li><p style="margin-bottom: 1em;">The dark side of financial digitalization: Firms' risk propensity and its consequences</p></li>
 
