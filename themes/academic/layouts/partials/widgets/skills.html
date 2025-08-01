@@ -11,10 +11,16 @@
   }
   .skills-img {
     margin: auto;
-    width: 45%;
+    height: 80px;      /* 统一高度 */
+    width: auto;
+    display: block;
+    object-fit: contain;
+    /* 可选: 防止图片太宽 */
+    max-width: 100%;
   }
   .skill-item {
     flex: 1;
+    text-align: center;
   }
   .skill-i1 {
 
