@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 <h2>Other Topics</h2>
 <ul style="padding-left: 1.2em;">
  
-  <li><p style="margin-bottom: 1em;">Corporate innovations and mergers and acquisitions from the perspective of corporate life cycle</p></li>
+  <li><p style="margin-bottom: 1em;">M&A and innovation capability across the corporate life cycle</p></li>
   
   <li><p style="margin-bottom: 1em;">Megaphone effect: The asymmetric impact of traditional vs. social media criticism on greenwashing</p></li>
   
