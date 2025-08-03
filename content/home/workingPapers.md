@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">The dark side of financial digitalization: Firms' risk propensity and its consequences</p></li>
 
-  <li><p style="margin-bottom: 1em;">Bank digitalization, credit allocation, and consumption inequality</p></li>
+  <li><p style="margin-bottom: 1em;">Bank digitalization, liquidity allocation, and consumption inequality</p></li>
   
   <li><p style="margin-bottom: 1em;">Live streaming E-Commerce, irrational consumption, and platform installment payments</p></li>
 
