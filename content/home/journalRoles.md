@@ -26,20 +26,8 @@ date_format = "Jan 2006"
 <ul style="padding-left: 1.2em;">
   <li>
     <p style="margin-bottom: 1em;">
-      Special Issue “New Financial Risks in the FinTech Era”, <em>International Journal of Financial Studies</em>
-      (<a href="https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX" target="_blank">link</a>)
-    </p>
-  </li>
-  <li>
-    <p style="margin-bottom: 1em;">
       Special Issue “Innovative Approaches to Managing Finance Risks in the FinTech Era”, <em>Journal of Risk and Financial Management</em>
       (<a href="https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3" target="_blank">link</a>)
-    </p>
-  </li>
-  <li>
-    <p style="margin-bottom: 1em;">
-      Special Issue “Digital Economy in Sustainable Resource Risk Management”, <em>Sustainability Journal</em>
-      (<a href="https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D" target="_blank">link</a>)
     </p>
   </li>
 </ul>
