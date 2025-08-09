@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sysu.edu.cn/sysuen/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'The continuous advancement of digital technologies is certain, and another key to ensuring they bring happiness to people is to clearly recognize their risks and manage them.'
+bio: <The continuous advancement of digital technologies is certain, and another key to ensuring they bring happiness to people is to clearly recognize their risks and manage them.>
 
 
 interests:
