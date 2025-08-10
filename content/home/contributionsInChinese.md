@@ -27,8 +27,11 @@ date_format = "Jan 2006"
   
   <li><p style="margin-bottom: 1em;">从技能偏向到红利共享——数实融合重塑薪酬差距的动态机制探究</p></li>
   
-  <li><p style="margin-bottom: 1em;">如何发展工业企业的新质生产力？——生产性数字化转型策略与政策</p></li>
+  <li><p style="margin-bottom: 1em;">如何发展工业企业的生产力？——生产性数字化转型策略与政策</p></li>
+
+  <li><p style="margin-bottom: 1em;">中国金融机构数字化能力的测度与影响研究</p></li>
   
   <li><p style="margin-bottom: 1em;">专业的回报：文理科互补性及其对城市特性的响应</p></li>
+
 </ul>
 
