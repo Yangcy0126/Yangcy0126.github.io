@@ -95,4 +95,4 @@ I am an active scholar in Finance at Lingnan College of Sun Yat-sen University, 
 
 I have published several papers in academic journals, including *Financial Review*, *Technological Forecasting & Social Change*, *Business Strategy and the Environment* in English, as well as 经济研究 and 系统工程理论与实践 in Chinese.
 
-I believe that while the continuous advancement of digital technologies is inevitable, ensuring that they truly enhance human well-being requires a clear recognition of their risks and effective strategies to manage them.
+I believe that while the continuous advancement of digital technologies is certain, another key to ensuring they bring happiness to people is to clearly recognize their risks and manage them.
