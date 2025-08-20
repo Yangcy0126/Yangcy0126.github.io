@@ -77,9 +77,10 @@ social:
   link: https://orcid.org/0000-0001-5420-1025
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: img/CV_Cunyi_Yang.pdf
+# 通过下面的指令激活CV
+# - icon: cv
+#  icon_pack: ai
+#  link: img/CV_Cunyi_Yang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
