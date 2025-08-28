@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-Course “Artificial Intelligence and Financial Practice”, 2025, Lingnan College, Sun Yat-sen University 
+Course “AI and Financial Practice”, 2025, Lingnan College, Sun Yat-sen University 
 
 Course “Digital Finance and Insurance”, 2024, Lingnan College, Sun Yat-sen University 
 
