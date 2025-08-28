@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   
   <li><p style="margin-bottom: 1em;">Live streaming E-Commerce, irrational consumption, and platform installment payments</p></li>
 
-  <li><p style="margin-bottom: 1em;">How does digital transformation work? A perspective on information management and resource allocation</p></li>
+  <li><p style="margin-bottom: 1em;">The allocative channel of digital transformation: Information precision and production-network spillovers</p></li>
 
   <li><p style="margin-bottom: 1em;">Spatial interaction and spillover effects between digital finance and financial risks</p></li>
 </ul>
