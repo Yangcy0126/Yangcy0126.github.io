@@ -19,8 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+“Artificial Intelligence and Financial Practice”, 2025, Lingnan College, Sun Yat-sen University 
 
-“Digital Finance and Insurance”, 2024, Instructor: Prof. Yan Zeng 
+“Digital Finance and Insurance”, 2024, Lingnan College, Sun Yat-sen University 
 
-“Management of New Transformations”, 2023, Instructor: Prof. Mingkang Liu
+“Management of New Transformations”, 2023, Lingnan College, Sun Yat-sen University
 
