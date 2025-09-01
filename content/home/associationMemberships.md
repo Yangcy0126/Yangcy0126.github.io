@@ -26,3 +26,5 @@ Chinese Society of Optimization, Overall Planning and Economical Mathematics (CS
 American Economic Association (AEA)
 
 American Finance Association (AFA)
+
+INFORMS
