@@ -19,6 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+China Finance Annual Conference<br>
+<span style="font-size: 0.95em; color: #555;">22nd in Nanjing 2025; 21st in Guangzhou 2024; 20th in Beijing 2023</span></p></li>
+
+Annual Conference of Financial Systems Engineering and Risk Management<br>
+<span style="font-size: 0.95em; color: #555;">22nd in Wuhu 2025; 21st in Beijing 2024</span></p></li>
+
 Frontier Symposium on Autonomous Knowledge System in Digital Finance<br>
 <span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2025</span></p></li>
 
@@ -37,14 +43,8 @@ Greater Bay Area Digital Finance Forum<br>
 China Economic Annual Conference<br>
 <span style="font-size: 0.95em; color: #555;">24th in Beijing 2024</span></p></li>
 
-International Symposium on Financial Systems Engineering and Risk Management<br>
-<span style="font-size: 0.95em; color: #555;">21st in Beijing 2024</span></p></li>
-
 Forum on Big Data Research and Practice<br>
 <span style="font-size: 0.95em; color: #555;">10th in Guangzhou 2024</span></p></li>
-
-China Finance Annual Conference<br>
-<span style="font-size: 0.95em; color: #555;">21st in Guangzhou 2024; 20th in Beijing 2023</span></p></li>
 
 Annual Academic Conference of the China Information Economics Association<br>
 <span style="font-size: 0.95em; color: #555;">36th in Beijing 2024</span></p></li>
