@@ -20,9 +20,6 @@ date_format = "Jan 2006"
   <li><p style="margin-bottom: 1em;">“Gold Medal Nomination” in The 14th Qian Xuesen City Gold Medal, 2024</p></li>
   
   <li><p style="margin-bottom: 1em;">“Outstanding Paper Award” in The 4th National Major Strategy and Policy Research Forum, 2024</p></li>
-  
-  <li><p style="margin-bottom: 1em;">“Best Paper Award” in The 9th Risk Management and Financial Statistics Forum, 2024</p></li>
-</ul>
 
 <h2>Scholarships</h2>
 <ul style="padding-left: 1.2em;">
