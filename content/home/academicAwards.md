@@ -23,6 +23,7 @@ date_format = "Jan 2006"
 
 <h2>Scholarships</h2>
 <ul style="padding-left: 1.2em;">
+  
   <li><p style="margin-bottom: 1em;">Sun Yat-sen University President's Scholarship</p></li>
   
   <li><p style="margin-bottom: 1em;">Lingnan College Outstanding Doctoral Student Scholarship</p></li>
