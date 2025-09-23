@@ -10,6 +10,9 @@ date_format = "Jan 2006"
 +++
 <h2>Academic Awards</h2>
 <ul style="padding-left: 1.2em;">
+
+  <li><p style="margin-bottom: 1em;">Ranked 20th in the Global Top 100 Economists (5 years or less) on the RePEc/IDEAS database, 2025</p></li>
+  
   <li><p style="margin-bottom: 1em;">China Excellent Young Scholar Paper Award in Finance (2024), 2025</p></li>
    
   <li><p style="margin-bottom: 1em;">Top-ranked Paper, The 13th Guangdong Provincial Award for Excellence in Financial Research, 2025</p></li>
