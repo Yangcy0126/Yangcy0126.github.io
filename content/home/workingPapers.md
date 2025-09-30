@@ -52,7 +52,7 @@ date_format = "Jan 2006"
 
   <li><p style="margin-bottom: 1em;">United we stand: Corporate alliances and debt maturity structuring under extreme climate risk</p></li>
   
-  <li><p style="margin-bottom: 1em;">Collateral shocks and corporate risk-taking in China</p></li>
+  <li><p style="margin-bottom: 1em;">Collateral to Courage: The medium-term lending facility and corporate risk-taking in China</p></li>
 
   <li><p style="margin-bottom: 1em;">Sampler Scheduler for Diffusion Models</p></li>
   
