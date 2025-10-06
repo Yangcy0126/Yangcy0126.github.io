@@ -19,6 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+China Economic Annual Conference<br>
+<span style="font-size: 0.95em; color: #555;">25th in Shanghai 2025; 24th in Beijing 2024</span></p></li>
+
 China Finance Annual Conference<br>
 <span style="font-size: 0.95em; color: #555;">22nd in Nanjing 2025; 21st in Guangzhou 2024; 20th in Beijing 2023</span></p></li>
 
@@ -39,9 +42,6 @@ Quarterly Journal of Finance Forum<br>
 
 Greater Bay Area Digital Finance Forum<br>
 <span style="font-size: 0.95em; color: #555;">2nd in Guangzhou 2024; 1st in Guangzhou 2023</span></p></li>
-
-China Economic Annual Conference<br>
-<span style="font-size: 0.95em; color: #555;">24th in Beijing 2024</span></p></li>
 
 Forum on Big Data Research and Practice<br>
 <span style="font-size: 0.95em; color: #555;">10th in Guangzhou 2024</span></p></li>
