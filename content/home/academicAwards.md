@@ -17,6 +17,8 @@ date_format = "Jan 2006"
    
   <li><p style="margin-bottom: 1em;">Top-ranked Paper, The 13th Guangdong Provincial Award for Excellence in Financial Research, 2025</p></li>
 
+  <li><p style="margin-bottom: 1em;">“Outstanding Paper Award” in The 8th Conference on Big Data, Artificial Intelligence, and Financial Technology, 2025</p></li>
+
   <li><p style="margin-bottom: 1em;">“Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024</p></li>
   
   <li><p style="margin-bottom: 1em;">“Gold Medal Nomination” in The 14th Qian Xuesen City Gold Medal, 2024</p></li>
