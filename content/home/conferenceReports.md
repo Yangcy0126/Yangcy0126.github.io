@@ -28,6 +28,9 @@ China Finance Annual Conference<br>
 Annual Conference of Financial Systems Engineering and Risk Management<br>
 <span style="font-size: 0.95em; color: #555;">22nd in Wuhu 2025; 21st in Beijing 2024</span></p></li>
 
+Conference on Big Data, Artificial Intelligence, and Financial Technology<br>
+<span style="font-size: 0.95em; color: #555;">8th in Guangzhou 2025</span></p></li>
+
 Frontier Symposium on Autonomous Knowledge System in Digital Finance<br>
 <span style="font-size: 0.95em; color: #555;">1st in Guangzhou 2025</span></p></li>
 
