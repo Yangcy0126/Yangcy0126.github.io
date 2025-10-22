@@ -14,7 +14,7 @@ date_format = "Jan 2006"
 <h2>发表论文</h2>
 <ul style="padding-left: 1.2em;">
   <li><p style="margin-bottom: 1em;">曾燕, 查佳婧, 杨海生, <strong>杨存奕（通讯作者）</strong>, “中国数字普惠金融的发展模式探究：经济与民生的视角”. 《经济研究》, 2024, 59(8), 39–56<br>
-  <span style="font-size: 0.95em; color: #555;">被《新华文摘》《人大复印报刊资料》《国际经济评论》《数字经济与贸易自主知识体系建构报告》转载</span></p></li>
+  <span style="font-size: 0.95em; color: #555;">被《新华文摘》《人大复印报刊资料》《国际货币评论》《数字经济与贸易自主知识体系建构报告》转载</span></p></li>
 
   <li><p style="margin-bottom: 1em;">廖高可, <strong>杨存奕</strong>, 顾明瑞, “数字平台推荐机制、专业化生产与消费者福利”. 《系统工程理论与实践》, 2025, 待刊</p></li>
 
