@@ -26,21 +26,11 @@ date_format = "Jan 2006"
   </li>
 </ul>
 
-<h2>Guest Editor</h2>
-<ul style="padding-left: 1.2em;">
-  <li>
-    <p style="margin-bottom: 1em;">
-      Special Issue “Innovative Approaches to Managing Finance Risks in the FinTech Era”, <em>Journal of Risk and Financial Management</em>
-      (<a href="https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3" target="_blank">link</a>)
-    </p>
-  </li>
-</ul>
-
 <h2>Reviewer</h2>
 <ul style="padding-left: 1.2em;">
   <li>
     <p style="margin-bottom: 1em;">
-      <em>Applied Economics</em>, <em>Business Strategy and the Environment</em>, <em>China Finance Review International</em>, <em>Economic Analysis and Policy</em>, <em>Energy Economics</em>, <em>Financial Innovation</em>, <em>International Review of Economics and Finance</em>, <em>International Review of Financial Analysis</em>, <em>Managerial and Decision Economics</em>, <em>Review of Development Economics</em>, 《系统工程理论与实践》, etc.
+      <em>Applied Economics</em>, <em>Business Strategy and the Environment</em>, <em>China Finance Review International</em>, <em>Economic Modelling</em>, <em>Energy Economics</em>, <em>Financial Innovation</em>, <em>International Review of Economics and Finance</em>, <em>International Review of Financial Analysis</em>, <em>Managerial and Decision Economics</em>, <em>Review of Development Economics</em>, 《系统工程理论与实践》, etc.
     </p>
   </li>
 </ul>
