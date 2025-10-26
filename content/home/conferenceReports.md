@@ -28,6 +28,9 @@ China Finance Annual Conference<br>
 Annual Conference of Financial Systems Engineering and Risk Management<br>
 <span style="font-size: 0.95em; color: #555;">22nd in Wuhu 2025; 21st in Beijing 2024</span></p></li>
 
+Greater Bay Area Digital Finance Forum<br>
+<span style="font-size: 0.95em; color: #555;">3rd in Shenzhen 2025; 2nd in Guangzhou 2024; 1st in Guangzhou 2023</span></p></li>
+
 Conference on Big Data, Artificial Intelligence, and FinTech<br>
 <span style="font-size: 0.95em; color: #555;">8th in Guangzhou 2025</span></p></li>
 
@@ -42,9 +45,6 @@ Annual Conference of Quantitative Finance and Insurance Section of Chinese Socie
 
 Quarterly Journal of Finance Forum<br>
 <span style="font-size: 0.95em; color: #555;">3rd in Guangzhou 2025; 1st in Guangzhou 2023</span></p></li>
-
-Greater Bay Area Digital Finance Forum<br>
-<span style="font-size: 0.95em; color: #555;">2nd in Guangzhou 2024; 1st in Guangzhou 2023</span></p></li>
 
 Forum on Big Data Research and Practice<br>
 <span style="font-size: 0.95em; color: #555;">10th in Guangzhou 2024</span></p></li>
