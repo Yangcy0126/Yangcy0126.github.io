@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 #      <em>International Review of Finance</em> (<a href="https://onlinelibrary.wiley.com/journal/14682443" target="_blank">link</a>)
 #    </p>
 #  </li>
-#</ul>
+# </ul>
 
 <h2>Reviewer</h2>
 <ul style="padding-left: 1.2em;">
