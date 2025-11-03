@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Fintech Thrust, Hong Kong University of Science and Technology"
   company_url = ""
   location = "Guangzhou"
-  date_start = "2023-10-01"
-  date_end = "2024-04-01"
+  date_start = "2023"
+  date_end = "2024"
   description0 = """ """
 
 [[experience]]
@@ -32,17 +32,17 @@ date_format = "Jan 2006"
   company = "Faculty of Business and Economics, The University of Hong Kong"
   company_url = ""
   location = "Hong Kong"
-  date_start = "2025-06-01"
-  date_end = "2026-06-01"
+  date_start = "2025"
+  date_end = "2026"
   description0 = """ """
 
 [[experience]]
-  title = ""
+  title = "PhD Student"
   company = "Lingnan College, Sun Yat-sen University"
   company_url = ""
   location = "Guangzhou"
-  date_start = "2022-09-01"
-  date_end = ""
+  date_start = "2022"
+  date_end = "2022"
   description0 = """ """
 
 +++
