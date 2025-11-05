@@ -8,11 +8,11 @@ subtitle = ""
 date_format = "Jan 2006"
 +++
 
-<h2>Managing Editor</h2>
+<h2>Assistant Editor</h2>
 <ul style="padding-left: 1.2em;">
   <li>
     <p style="margin-bottom: 1em;">
-      <em>Journal of Economic Analysis</em> (<a href="https://www.anserpress.org/journal/jea" target="_blank">link</a>)
+      <em>International Review of Finance</em> (<a href="https://onlinelibrary.wiley.com/journal/14682443" target="_blank">link</a>)
     </p>
   </li>
 </ul>
