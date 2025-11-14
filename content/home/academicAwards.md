@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
   “Outstanding Paper Award” in The 8th Conference on Big Data, Artificial Intelligence, and FinTech, 2025
 
-  “Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the Chinese Society of Optimization, Overall Planning, and Economic Mathematics, 2024
+  “Outstanding Paper Award” in The 6th Academic Annual Conference of the Quantitative Finance and Insurance Branch of the CSOOPEM, 2024
     
   Sun Yat-sen University President's Scholarship, 2024
   
