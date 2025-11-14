@@ -5,7 +5,7 @@ headless = true
 active = true
 weight = 160
 
-title = "Contributions in Chinese"
+title = "CONTRIBUTIONS IN CHINESE"
 subtitle = ""
 
 date_format = "Jan 2006"
