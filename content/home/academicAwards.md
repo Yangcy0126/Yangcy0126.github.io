@@ -3,7 +3,7 @@ widget = "academicAwards"
 headless = true
 active = true
 weight = 100
-title = "HONORS, AWARDS, AND SCHOLARSHIPS"
+title = "HONORS, AWARDS, and SCHOLARSHIPS"
 subtitle = ""
 date_format = "Jan 2006"
 
