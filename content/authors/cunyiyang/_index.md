@@ -22,7 +22,7 @@ bio: <The continuous advancement of digital technologies is certain, and another
 
 
 interests:
-- Digital Transformation
+- Digitalization
 - Risk Management
 - Green Finance
 
