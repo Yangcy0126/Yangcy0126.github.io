@@ -9,6 +9,7 @@ date_format = "Jan 2006"
 
 +++
 
+  Job Market Star, 25th China Economics Annual Conference, 2025
 
   The Global Top Young 100 Economists (5 years or less) by the RePEc/IDEAS database, 2025
   
