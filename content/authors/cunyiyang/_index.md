@@ -2,7 +2,7 @@
 # Display name
 name: "Cunyi YANG"
 
-"杨存奕"
+name: "杨存奕"
 
 
 
