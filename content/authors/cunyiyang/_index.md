@@ -1,6 +1,7 @@
 ---
 # Display name
-name: Cunyi YANG (杨存奕)
+name: Cunyi YANG  
+(杨存奕)
 
 # Username (this should match the folder name)
 authors:
