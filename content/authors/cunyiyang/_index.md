@@ -1,8 +1,6 @@
 ---
 # Display name
 name: "Cunyi YANG"
-tagline: "杨存奕"
-
 
 # Username (this should match the folder name)
 authors:
@@ -16,6 +14,8 @@ role: Lingnan College
 
 # Organizations/Affiliations
 organizations:
+- name: "杨存奕"
+  url: ""
 - name: Sun Yat-sen University
   url: "https://www.sysu.edu.cn/sysuen/"
 
