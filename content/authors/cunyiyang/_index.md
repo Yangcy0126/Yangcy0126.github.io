@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lingnan College
+role: 杨存奕
 
 # Organizations/Affiliations
 organizations:
-- name: "杨存奕"
+- name: "Lingnan College"
   url: ""
 - name: Sun Yat-sen University
   url: "https://www.sysu.edu.cn/sysuen/"
