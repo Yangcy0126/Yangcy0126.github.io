@@ -1,6 +1,8 @@
 ---
 # Display name
-name: "Cunyi YANG<br>(杨存奕)"
+name: "Cunyi YANG"
+tagline: "杨存奕"
+
 
 # Username (this should match the folder name)
 authors:
