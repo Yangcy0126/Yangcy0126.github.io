@@ -1,8 +1,8 @@
 ---
 # Display name
-name: "Cunyi YANG
-\\
-杨存奕"
+name: Cunyi YANG
+
+杨存奕
 
 
 
@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 杨存奕
+role: 
 
 # Organizations/Affiliations
 organizations:
