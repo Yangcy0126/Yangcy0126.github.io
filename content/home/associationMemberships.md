@@ -25,4 +25,6 @@ Chinese Society of Optimization, Overall Planning and Economical Mathematics (CS
 
 American Finance Association (AFA)
 
+European Finance Association (EFA)
+
 INFORMS
