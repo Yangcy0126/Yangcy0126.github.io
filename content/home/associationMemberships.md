@@ -27,4 +27,6 @@ American Finance Association (AFA)
 
 European Finance Association (EFA)
 
+Royal Economic Society
+
 INFORMS
